@@ -1,7 +1,7 @@
 """ 
-	@Guillermo Alvarez
-	task link: https://codility.com/programmers/task/tape_equilibrium/
-	test results: https://codility.com/demo/results/trainingQT48E4-KKH/#task-0
+    @Guillermo Alvarez
+    task link: https://codility.com/programmers/task/tape_equilibrium/
+    test results: https://codility.com/demo/results/trainingQT48E4-KKH/#task-0
 """
 
 
